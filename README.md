@@ -126,6 +126,7 @@ The following is the procedure followed by the code:
 ## Implementation
 
 ## Codat.php
+
 class CODAT
 {
     private $api_url = 'https://api.codat.io';
