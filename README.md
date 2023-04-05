@@ -118,10 +118,6 @@ The following is the procedure followed by the code:
 
 2. Create a function to get the particular api data: The code extracts the data according to the api end point.
 
-3. Data Extraction: The code searches according to parameter also.
-
-4. Data Transformation: The code transforms the data in table format to show on frontend.
-
 
 ## Implementation
 
